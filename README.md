@@ -1,2 +1,2 @@
 # Gitlearn
-learn github
+##### learn github and git
